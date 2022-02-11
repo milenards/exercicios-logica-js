@@ -1,0 +1,5 @@
+//programa: Alo mundo
+//INICIO
+    //ESCREVA "Alo mundo"
+    console.log("Alo Mundo")
+//FIM
