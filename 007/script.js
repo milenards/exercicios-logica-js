@@ -1,9 +1,9 @@
-let centimentros
-let resultado
+function valor(centimentros=0){
+    let resultado
+    console.log("Quantos centimentros lateral tem o quadrado?")
 
-console.log("Quantos centimentros lateral tem o quadrado?")
-centimentros = 17
+    resultado=centimentros*centimentros
 
-resultado=centimentros*centimentros
-
-console.log("O quadrado tem: ",centimentros)
+    console.log("O quadrado tem: ",resultado)
+}
+    valor(8)

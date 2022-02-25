@@ -1,11 +1,12 @@
 //programa: Número
 //INICIO
-    let num
+function exibir(num=0){
 	//ESCREVA  ("digite um número")
     console.log("Digite um número")
 	//LEIA (num)
-    num = 10
 	//ESCREVA ("o número informado foi " ,num)
     console.log("O número informado foi", num)
 //FIM
+}
+exibir(8)
 	
