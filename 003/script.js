@@ -7,6 +7,4 @@ let soma
     
     document.querySelector("#resultado").innerHTML ="Soma dos números" + soma
 
-
-
 }
